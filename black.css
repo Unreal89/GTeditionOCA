@@ -17,13 +17,7 @@ span[style="font-family: HPSimplified_Rg,Arial,sans-serif;font-size: 17px;color:
 .darkGUI span[title$='90 days'] {
 	color: black;
 }
-.logo:after {
-  content:"GT edition";
-  text-decoration: none;
-  transition: all 0.5s;
-  font-size: 1.5em;
-  color: #01A982;
-}
+
 
 
 @keyframes neon2 {
