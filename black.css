@@ -25,10 +25,6 @@ span[style="font-family: HPSimplified_Rg,Arial,sans-serif;font-size: 17px;color:
   color: #01A982;
 }
 
-.logo:hover:after {
-  animation: neon2 0.5s ease-in-out infinite alternate;
-  color: #ffffff;
-}
 
 @keyframes neon2 {
  from {
