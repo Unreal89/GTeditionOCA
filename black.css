@@ -411,11 +411,7 @@ tr[item^="standardDL380G10Riser"] td ._pid::after {
     background-color: #616161 !important;
 }
 
-#logo-oca {
-    filter: opacity(0);
-    height: 30px !important;
-    width: 180px !important;
-}
+
 
 #main_page {
     position: inherit !important;
@@ -750,18 +746,8 @@ tr[item^="standardDL380G10Riser"] td ._pid::after {
     bottom: inherit !important;
 }
 
-.logo {
-    margin-left: -20px !important;
-    margin-top: -5px !important;
-}
 
-.logo::before {
-    position: absolute;
-    top: 10px;
-    left: 35px;
-    content: "OneConfig Advanced" !important;
-    font-size: 20px !important;
-}
+
 
 .main_footer {
     display: none !important;
