@@ -1,4 +1,5 @@
 powerusers=['eyal.hasson@hpe.com',
+'federico.francesco.faggiano@hpe.com',
 'almina.ajdin@hpe.com',
 'cosmin.barladeanu@hpe.com',
 'jitka.buchova@hpe.com',
